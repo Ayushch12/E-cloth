@@ -22,8 +22,8 @@ to ensure a seamless browsing and shopping experience on different screen sizes.
 
 And, to run this E-Commerce Clothing : 
 
-1>CD CLIENT
+1>CD CLIENT =
 npm start
 
-2>CD API
+2>CD API =
 npm run develop
