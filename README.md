@@ -2,6 +2,7 @@
 An e-commerce Clothing website is an online platform that allows businesses or individuals to sell products and
 services to customers over the internet. It provides a virtual storefront where customers can browse through 
 various products, make purchases, and complete transactions without the need for physical interaction.
+<img width="1266" alt="Screenshot 2023-05-18 at 20 09 26" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/fa0d3d16-19b2-41f1-bfd1-271c8b4d3418">
 
 #Here are some key features and components commonly found on this e-commerce clothing website:
 1. Product Catalog: The website presents a wide range of products or services, often organized into categories
