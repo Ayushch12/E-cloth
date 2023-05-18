@@ -21,6 +21,7 @@ help build trust and credibility in the products and website.
 to ensure a seamless browsing and shopping experience on different screen sizes.
 
 And, to run this E-Commerce Clothing : 
+
 #CD CLIENT
 -> npm start
 
