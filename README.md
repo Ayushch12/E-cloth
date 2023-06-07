@@ -20,10 +20,10 @@ help build trust and credibility in the products and website.
 5.Mobile Responsive: Given the increasing use of mobile devices, e-commerce websites are designed to be mobile-friendly, adapting their layout and functionality 
 to ensure a seamless browsing and shopping experience on different screen sizes.
 
-And, to run this E-Commerce Clothing : 
+And, to run this E-Commerce Clothing: 
 
-1>CD CLIENT =
+1>CD CLIENT=
 npm start
 
-2>CD API =
+2>CD API=
 npm run develop
