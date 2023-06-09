@@ -12,7 +12,7 @@ various products, make purchases, and complete transactions without the need for
 to review and edit their purchases before checking out.
 
 3. Secure Payment Gateways: E-commerce websites integrate secure payment gateways to facilitate secure online transactions. Customers can choose from different payment methods, 
- such as credit/debit cards, digital wallets or bank transfers, to make their purchases.
+ such as credit/debit cards, digital wallets or bank transfers, to make their purchases from site.
  
 4. Reviews and Ratings: Customers can provide reviews and ratings on products they have purchased, helping other buyers make informed decisions. These reviews
 help build trust and credibility in the products and website. 
