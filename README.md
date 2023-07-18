@@ -23,10 +23,10 @@ pour garantir une expérience de navigation et d'achat fluide sur différentes t
 
 ## Pour exécuter ce vêtement E-Commerce :
 
-# CD CLIENT
+## CD CLIENT
 npm start
 
-## CD API
+## CD API
 npm run develop
 
 
