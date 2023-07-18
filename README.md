@@ -26,7 +26,7 @@ pour garantir une expérience de navigation et d'achat fluide sur différentes t
 # CD CLIENT
 npm start
 
-# CD API
+## CD API
 npm run develop
 
 
