@@ -5,6 +5,10 @@ services aux clients sur Internet. Il fournit une vitrine virtuelle où les clie
 divers produits, effectuer des achats et effectuer des transactions sans avoir besoin d'interaction physique.
 <img width="1266" alt="Capture d’écran 2023-07-18 à 09 50 52" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/5d5ec29b-401c-4383-82ab-d56bb08a8005">
 
+<img width="1271" alt="Capture d’écran 2023-07-18 à 19 01 41" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/ad7887e4-089a-4c15-aa1b-23a0c2079d8f">
+
+<img width="1280" alt="Capture d’écran 2023-07-18 à 19 02 39" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/4875d3e9-92e0-4f84-85a8-818a0aa56338">
+
 #Voici quelques fonctionnalités et composants clés que l'on trouve couramment sur ce site de e-commerce de vêtements :
 1. Catalogue de produits : le site Web présente une large gamme de produits ou de services, souvent organisés en catégories
   et sous-catégories, avec des descriptions détaillées, des images et des informations sur les prix.
