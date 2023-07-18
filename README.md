@@ -1,29 +1,42 @@
-# Ecommerce-Clothing:
-An e-commerce Clothing website is an online platform that allows businesses or individuals to sell products and
-services to customers over the internet. It provides a virtual storefront where customers can browse through 
-various products, make purchases, and complete transactions without the need for physical interaction.
-<img width="1266" alt="Screenshot 2023-05-18 at 20 09 26" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/fa0d3d16-19b2-41f1-bfd1-271c8b4d3418">
+# Ecommerce-Vêtements :
 
-#Here are some key features and components commonly found on this e-commerce clothing website:
-1. Product Catalog: The website presents a wide range of products or services, often organized into categories
- and sub-categories, with detailed descriptions, images and price information.
+Un site e-commerce de vêtements est une plateforme en ligne qui permet aux entreprises ou aux particuliers de vendre des produits et
+services aux clients sur Internet. Il fournit une vitrine virtuelle où les clients peuvent parcourir
+divers produits, effectuer des achats et effectuer des transactions sans avoir besoin d'interaction physique.
+<img width="1266" alt="Capture d'écran 2023-05-18 à 20 09 26" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/fa0d3d16-19b2-41f1-bfd1- 271c8b4d3418">
+
+#Voici quelques fonctionnalités et composants clés que l'on trouve couramment sur ce site de e-commerce de vêtements :
+1. Catalogue de produits : le site Web présente une large gamme de produits ou de services, souvent organisés en catégories
+  et sous-catégories, avec des descriptions détaillées, des images et des informations sur les prix.
  
-2. Shopping cart: Customers can add products to a virtual shopping cart while browsing the website. The shopping cart keeps track of selected items, quantities and total costs, allowing customers 
-to review and edit their purchases before checking out.
+2. Panier d'achat : Les clients peuvent ajouter des produits à un panier d'achat virtuel tout en naviguant sur le site Web. Le panier conserve une trace des articles sélectionnés, des quantités et des coûts totaux, permettant aux clients
+pour revoir et modifier leurs achats avant de passer à la caisse.
 
-3. Secure Payment Gateways: E-commerce websites integrate secure payment gateways to facilitate secure online transactions. Customers can choose from different payment methods, 
- such as credit/debit cards, digital wallets or bank transfers, to make their purchases from site.
+3. Passerelles de paiement sécurisées : les sites Web de commerce électronique intègrent des passerelles de paiement sécurisées pour faciliter les transactions en ligne sécurisées. Les clients peuvent choisir parmi différents modes de paiement,
+  tels que les cartes de crédit/débit, les portefeuilles numériques ou les virements bancaires, pour effectuer leurs achats sur le site.
  
-4. Reviews and Ratings: Customers can provide reviews and ratings on products they have purchased, helping other buyers make informed decisions. These reviews
-help build trust and credibility in the products and website. 
+4. Avis et évaluations : les clients peuvent fournir des avis et des évaluations sur les produits qu'ils ont achetés, aidant ainsi les autres acheteurs à prendre des décisions éclairées. Ces critiques
+aider à renforcer la confiance et la crédibilité dans les produits et le site Web.
 
-5.Mobile Responsive: Given the increasing use of mobile devices, e-commerce websites are designed to be mobile-friendly, adapting their layout and functionality 
-to ensure a seamless browsing and shopping experience on different screen sizes.
+5.Mobile Responsive : étant donné l'utilisation croissante des appareils mobiles, les sites Web de commerce électronique sont conçus pour être adaptés aux mobiles, en adaptant leur mise en page et leurs fonctionnalités.
+pour garantir une expérience de navigation et d'achat fluide sur différentes tailles d'écran.
 
-And, to run this E-Commerce Clothing: 
+## Pour exécuter ce vêtement E-Commerce :
 
-1>CD CLIENT=
+## CLIENT CD
+
 npm start
 
-2>CD API=
+
+
+## API CD
+
 npm run develop
+
+
+
+## CD API
+
+npm run develop
+
+
