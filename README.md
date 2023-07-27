@@ -1,6 +1,6 @@
 # Ecommerce-Vêtements :
 
-Un site e-commerce de vêtements est une plateforme en ligne qui permet aux entreprises ou aux particuliers de vendre des produits et
+Un site e-commerce de vêtements est une plateforme en ligne qui permet aux entreprises ou aux particuliers de vendre des produits et 
 services aux clients sur Internet. Il fournit une vitrine virtuelle où les clients peuvent parcourir
 divers produits, effectuer des achats et effectuer des transactions sans avoir besoin d'interaction physique.
 <img width="1266" alt="Capture d’écran 2023-07-18 à 09 50 52" src="https://github.com/Ayushch12/Ecommerce-Clothing/assets/96380226/5d5ec29b-401c-4383-82ab-d56bb08a8005">
